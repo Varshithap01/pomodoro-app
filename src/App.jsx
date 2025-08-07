@@ -1,5 +1,5 @@
 import { Routes, Route, Link, useLocation } from 'react-router-dom';
-import AboutPage from './AboutPage.jsx';
+import AboutPage from "./AboutPage";
 import PomodoroPage from './PomodoroPage.jsx';
 import TaskListPage from './TaskListPage.jsx';
 import Dashboard from './Dashboard.jsx';
